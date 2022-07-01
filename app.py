@@ -5,16 +5,12 @@ import torch
 import torchaudio
 import wave
 import json
-from synthesizer.inference import Synthesizer
-from encoder import inference as encoder
-from vocoder import inference as vocoder
+
 from pathlib import Path
 import numpy as np
-import soundfile as sf
+
 import os
-import librosa
-import sounddevice as sd
-import wavio
+
 import glob
 from helper import draw_embed, create_spectrogram, read_audio
 from transformers import AutoProcessor, AutoModelForCTC
