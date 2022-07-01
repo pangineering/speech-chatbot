@@ -1,0 +1,303 @@
+2022-07-01 16:09:12,356 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 16:09:12,357 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 16:09:12,357 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:09:12,357 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:09:12,357 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 16:09:12,357 - src.sound - INFO - Default input device index = 0
+2022-07-01 16:09:12,357 - src.sound - INFO - Max input channels = 1
+2022-07-01 16:09:12,357 - src.sound - INFO - Default samplerate = 44100
+2022-07-01 16:12:06,209 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:12:09,223 - src.sound - INFO - Recording Completed
+2022-07-01 16:12:30,164 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:12:33,173 - src.sound - INFO - Recording Completed
+2022-07-01 16:13:25,003 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:13:28,014 - src.sound - INFO - Recording Completed
+2022-07-01 16:14:23,354 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:14:26,365 - src.sound - INFO - Recording Completed
+2022-07-01 16:15:37,851 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:15:40,864 - src.sound - INFO - Recording Completed
+2022-07-01 16:16:01,570 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:16:04,583 - src.sound - INFO - Recording Completed
+2022-07-01 16:17:06,401 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:17:09,413 - src.sound - INFO - Recording Completed
+2022-07-01 16:17:09,549 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 16:33:18,913 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 16:33:18,913 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 16:33:18,913 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:33:18,913 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:33:18,913 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 16:33:18,913 - src.sound - INFO - Default input device index = 0
+2022-07-01 16:33:18,914 - src.sound - INFO - Max input channels = 1
+2022-07-01 16:33:18,914 - src.sound - INFO - Default samplerate = 44100
+2022-07-01 16:33:43,268 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:33:46,281 - src.sound - INFO - Recording Completed
+2022-07-01 16:33:46,416 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 16:44:15,646 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 16:44:15,647 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 16:44:15,647 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:44:15,647 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:44:15,647 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 16:44:15,647 - src.sound - INFO - Default input device index = 0
+2022-07-01 16:44:15,647 - src.sound - INFO - Max input channels = 1
+2022-07-01 16:44:15,647 - src.sound - INFO - Default samplerate = 44100
+2022-07-01 16:44:37,665 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:44:40,674 - src.sound - INFO - Recording Completed
+2022-07-01 16:44:40,811 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 16:46:01,141 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 16:46:01,141 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 16:46:01,141 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:46:01,141 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:46:01,141 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 16:46:01,142 - src.sound - INFO - Default input device index = 0
+2022-07-01 16:46:01,142 - src.sound - INFO - Max input channels = 1
+2022-07-01 16:46:01,142 - src.sound - INFO - Default samplerate = 44100
+2022-07-01 16:46:54,523 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:46:57,536 - src.sound - INFO - Recording Completed
+2022-07-01 16:46:57,671 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 16:54:00,558 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 16:54:00,559 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 16:54:00,559 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:54:00,559 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:54:00,559 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 16:54:00,559 - src.sound - INFO - Default input device index = 0
+2022-07-01 16:54:00,559 - src.sound - INFO - Max input channels = 1
+2022-07-01 16:54:00,559 - src.sound - INFO - Default samplerate = 44100
+2022-07-01 16:54:22,750 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:54:25,761 - src.sound - INFO - Recording Completed
+2022-07-01 16:54:25,896 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 16:55:18,385 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 16:55:18,385 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 16:55:18,385 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:55:18,386 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:55:18,386 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 16:55:18,386 - src.sound - INFO - Default input device index = 0
+2022-07-01 16:55:18,386 - src.sound - INFO - Max input channels = 1
+2022-07-01 16:55:18,386 - src.sound - INFO - Default samplerate = 44100
+2022-07-01 16:55:40,575 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:55:43,587 - src.sound - INFO - Recording Completed
+2022-07-01 16:55:43,720 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 16:56:14,529 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 16:56:14,529 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 16:56:14,529 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:56:14,530 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:56:14,530 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 16:56:14,530 - src.sound - INFO - Default input device index = 0
+2022-07-01 16:56:14,530 - src.sound - INFO - Max input channels = 1
+2022-07-01 16:56:14,530 - src.sound - INFO - Default samplerate = 44100
+2022-07-01 16:56:37,450 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:56:40,461 - src.sound - INFO - Recording Completed
+2022-07-01 16:56:40,598 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 16:57:10,381 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 16:57:10,381 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 16:57:10,381 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:57:10,382 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:57:10,382 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 16:57:10,382 - src.sound - INFO - Default input device index = 0
+2022-07-01 16:57:10,382 - src.sound - INFO - Max input channels = 1
+2022-07-01 16:57:10,382 - src.sound - INFO - Default samplerate = 44100
+2022-07-01 16:57:35,263 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:57:38,274 - src.sound - INFO - Recording Completed
+2022-07-01 16:57:38,411 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 16:58:24,421 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 16:58:24,421 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 16:58:24,421 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:58:24,422 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 16:58:24,422 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 16:58:24,422 - src.sound - INFO - Default input device index = 0
+2022-07-01 16:58:24,422 - src.sound - INFO - Max input channels = 1
+2022-07-01 16:58:24,422 - src.sound - INFO - Default samplerate = 44100
+2022-07-01 16:58:50,452 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 16:58:53,463 - src.sound - INFO - Recording Completed
+2022-07-01 16:58:53,592 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:08:26,056 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:08:26,056 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:08:26,057 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:08:26,057 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:08:26,057 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:08:26,057 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:08:26,057 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:08:26,057 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:09:10,256 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:09:10,256 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:09:10,256 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:09:10,256 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:09:10,257 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:09:10,257 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:09:10,257 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:09:10,257 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:09:32,167 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:09:35,138 - src.sound - INFO - Recording Completed
+2022-07-01 17:09:35,274 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:10:10,638 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:10:10,638 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:10:10,638 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:10:10,638 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:10:10,638 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:10:10,639 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:10:10,639 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:10:10,639 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:11:00,689 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:11:03,658 - src.sound - INFO - Recording Completed
+2022-07-01 17:11:03,793 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:13:03,357 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:13:03,358 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:13:03,358 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:13:03,358 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:13:03,358 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:13:03,358 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:13:03,358 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:13:03,358 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:13:27,171 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:13:30,142 - src.sound - INFO - Recording Completed
+2022-07-01 17:13:30,273 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:16:18,283 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:16:18,283 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:16:18,284 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:16:18,284 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:16:18,284 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:16:18,284 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:16:18,284 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:16:18,284 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:16:40,846 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:16:43,817 - src.sound - INFO - Recording Completed
+2022-07-01 17:16:43,946 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:18:20,458 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:18:20,458 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:18:20,458 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:18:20,458 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:18:20,458 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:18:20,458 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:18:20,459 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:18:20,459 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:19:00,324 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:19:00,324 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:19:00,324 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:19:00,324 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:19:00,324 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:19:00,324 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:19:00,324 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:19:00,325 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:19:20,688 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:19:23,660 - src.sound - INFO - Recording Completed
+2022-07-01 17:19:23,792 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:23:11,461 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:23:11,461 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:23:11,461 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:23:11,461 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:23:11,461 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:23:11,461 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:23:11,461 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:23:11,462 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:24:00,334 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:24:03,305 - src.sound - INFO - Recording Completed
+2022-07-01 17:24:03,439 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:25:46,062 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:25:46,062 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:25:46,062 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:25:46,062 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:25:46,062 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:25:46,062 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:25:46,062 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:25:46,062 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:26:08,718 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:26:11,683 - src.sound - INFO - Recording Completed
+2022-07-01 17:26:11,820 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:27:53,313 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:27:53,313 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:27:53,313 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:27:53,313 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:27:53,313 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:27:53,314 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:27:53,314 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:27:53,314 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:28:27,709 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:28:30,678 - src.sound - INFO - Recording Completed
+2022-07-01 17:28:30,813 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:28:55,582 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:28:55,583 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:28:55,583 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:28:55,583 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:28:55,583 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:28:55,583 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:28:55,583 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:28:55,583 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:29:20,297 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:29:23,265 - src.sound - INFO - Recording Completed
+2022-07-01 17:29:23,397 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:30:04,191 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:30:04,191 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:30:04,191 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:30:04,192 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:30:04,192 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:30:04,192 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:30:04,192 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:30:04,192 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:30:29,130 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:30:32,100 - src.sound - INFO - Recording Completed
+2022-07-01 17:30:32,233 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:31:29,381 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:31:29,381 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:31:29,381 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:31:29,381 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:31:29,381 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:31:29,381 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:31:29,382 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:31:29,382 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:31:51,190 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:31:54,157 - src.sound - INFO - Recording Completed
+2022-07-01 17:31:54,293 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:32:45,690 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:32:45,690 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:32:45,691 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:32:45,691 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:32:45,691 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:32:45,691 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:32:45,691 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:32:45,691 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:33:12,832 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:33:15,803 - src.sound - INFO - Recording Completed
+2022-07-01 17:33:15,933 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:33:57,209 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:33:57,209 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:33:57,209 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:33:57,210 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:33:57,210 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:33:57,210 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:33:57,210 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:33:57,210 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:34:24,576 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:34:27,544 - src.sound - INFO - Recording Completed
+2022-07-01 17:34:27,680 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:35:00,967 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:35:00,968 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:35:00,968 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:35:00,968 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:35:00,968 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:35:00,968 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:35:00,968 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:35:00,968 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:35:22,288 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:35:25,254 - src.sound - INFO - Recording Completed
+2022-07-01 17:35:25,382 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:35:47,004 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:35:47,004 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:35:47,004 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:35:47,004 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:35:47,004 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:35:47,004 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:35:47,004 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:35:47,005 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:36:08,113 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:36:11,082 - src.sound - INFO - Recording Completed
+2022-07-01 17:36:11,215 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
+2022-07-01 17:37:31,085 - src.sound - INFO - List of System's Audio Devices configurations:
+2022-07-01 17:37:31,086 - src.sound - INFO - Number of audio devices: 2
+2022-07-01 17:37:31,086 - src.sound - INFO - [('index', 0), ('name', 'MacBook Pro Microphone'), ('maxInputChannels', 1), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:37:31,086 - src.sound - INFO - [('index', 1), ('name', 'MacBook Pro Speakers'), ('maxInputChannels', 0), ('defaultSampleRate', 48000.0)]
+2022-07-01 17:37:31,086 - src.sound - INFO - Audio device configurations currently used
+2022-07-01 17:37:31,086 - src.sound - INFO - Default input device index = 0
+2022-07-01 17:37:31,086 - src.sound - INFO - Max input channels = 1
+2022-07-01 17:37:31,086 - src.sound - INFO - Default samplerate = 16000
+2022-07-01 17:37:53,928 - src.sound - INFO - Recording started for 3 seconds
+2022-07-01 17:37:56,900 - src.sound - INFO - Recording Completed
+2022-07-01 17:37:57,031 - src.sound - INFO - Recording saved to /Users/conan/Desktop/side_projects/speech-chatbot/output/recording/recorded.wav
