@@ -5,7 +5,7 @@ import torch
 import torchaudio
 import wave
 import json
-from synthesizer import Synthesizer
+from synthesizer.inference import Synthesizer
 from encoder import inference as encoder
 from vocoder import inference as vocoder
 from pathlib import Path
