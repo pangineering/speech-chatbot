@@ -47,6 +47,7 @@ urllib3 = "==1.26.9"
 websocket-client = "==1.3.3"
 synthesizer = "*"
 sounddevice = "*"
+encoder = "*"
 
 [dev-packages]
 
